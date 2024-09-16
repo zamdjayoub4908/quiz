@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Who was the first man to walk on the moon?",
+        "choices": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+        "answer": "Neil Armstrong",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the chemical symbol for Gold?",
+        "choices": ["Au", "Ag", "Fe", "Pb"],
+        "answer": "Au",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which organ purifies our blood?",
+        "choices": ["Heart", "Kidney", "Liver", "Lungs"],
+        "answer": "Kidney",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "choices": ["Venus", "Earth", "Mars", "Mercury"],
+        "answer": "Mercury",
+        "correctIndex": 3
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "choices": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Africa",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "choices": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+        "answer": "Mitochondria",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "choices": ["Busan", "Seoul", "Incheon", "Daegu"],
+        "answer": "Seoul",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "choices": ["Greenland", "Australia", "Borneo", "Madagascar"],
+        "answer": "Greenland",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the longest bone in the human body?",
+        "choices": ["Humerus", "Femur", "Tibia", "Fibula"],
+        "answer": "Femur",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which ocean is the deepest in the world?",
+        "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who invented the telephone?",
+        "choices": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which year did World War I begin?",
+        "choices": ["1912", "1914", "1916", "1918"],
+        "answer": "1914",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which planet is famous for its rings?",
+        "choices": ["Mars", "Saturn", "Jupiter", "Uranus"],
+        "answer": "Saturn",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the national currency of Japan?",
+        "choices": ["Yen", "Won", "Dollar", "Euro"],
+        "answer": "Yen",
+        "correctIndex": 0
+    },
+    {
+        "question": "Who painted 'The Persistence of Memory'?",
+        "choices": ["Pablo Picasso", "Salvador Dali", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali",
+        "correctIndex": 1
+    }
+]

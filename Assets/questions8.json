@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Which planet has the Great Red Spot?",
+        "choices": ["Saturn", "Mars", "Jupiter", "Neptune"],
+        "answer": "Jupiter",
+        "correctIndex": 2
+    },
+    {
+        "question": "Who discovered gravity?",
+        "choices": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Isaac Newton",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "choices": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "answer": "Cairo",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the largest type of deer?",
+        "choices": ["Elk", "Caribou", "Moose", "White-tailed deer"],
+        "answer": "Moose",
+        "correctIndex": 2
+    },
+    {
+        "question": "What do you call a baby kangaroo?",
+        "choices": ["Cub", "Calf", "Joey", "Fawn"],
+        "answer": "Joey",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which planet is closest to Earth?",
+        "choices": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Venus",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the process by which plants make food?",
+        "choices": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+        "answer": "Photosynthesis",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the square root of 144?",
+        "choices": ["10", "11", "12", "13"],
+        "answer": "12",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the primary ingredient in hummus?",
+        "choices": ["Lentils", "Chickpeas", "Black Beans", "Peas"],
+        "answer": "Chickpeas",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which ocean is Bermuda located in?",
+        "choices": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Atlantic Ocean"],
+        "answer": "Atlantic Ocean",
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the longest river in the USA?",
+        "choices": ["Colorado River", "Mississippi River", "Missouri River", "Yukon River"],
+        "answer": "Missouri River",
+        "correctIndex": 2
+    },
+    {
+        "question": "Who painted the 'The Night Watch'?",
+        "choices": ["Vincent van Gogh", "Rembrandt", "Pablo Picasso", "Claude Monet"],
+        "answer": "Rembrandt",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "choices": ["China", "Brazil", "United Kingdom", "Russia"],
+        "answer": "Brazil",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which element is most common in the Earth's atmosphere?",
+        "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who invented the light bulb?",
+        "choices": ["Alexander Graham Bell", "Thomas Edison", "Benjamin Franklin", "Nikola Tesla"],
+        "answer": "Thomas Edison",
+        "correctIndex": 1
+    }
+]

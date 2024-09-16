@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "choices": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "100,000 km/s",
+            "400,000 km/s"
+        ],
+        "answer": "300,000 km/s",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which element has the atomic number 6?",
+        "choices": [
+            "Oxygen",
+            "Carbon",
+            "Nitrogen",
+            "Helium"
+        ],
+        "answer": "Carbon",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who developed the theory of general relativity?",
+        "choices": [
+            "Isaac Newton",
+            "Nikola Tesla",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Mercury"
+        ],
+        "answer": "Mars",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "choices": [
+            "Aldous Huxley",
+            "George Orwell",
+            "J.D. Salinger",
+            "F. Scott Fitzgerald"
+        ],
+        "answer": "George Orwell",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choices": [
+            "Seoul",
+            "Beijing",
+            "Bangkok",
+            "Tokyo"
+        ],
+        "answer": "Tokyo",
+        "correctIndex": 3
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "choices": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Nitrogen",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the currency of Switzerland?",
+        "choices": [
+            "Euro",
+            "Swiss Franc",
+            "Pound Sterling",
+            "US Dollar"
+        ],
+        "answer": "Swiss Franc",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who painted 'Starry Night'?",
+        "choices": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Pablo Picasso",
+            "Leonardo da Vinci"
+        ],
+        "answer": "Vincent van Gogh",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "choices": [
+            "Liver",
+            "Lungs",
+            "Heart",
+            "Kidneys"
+        ],
+        "answer": "Heart",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "choices": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Great White Shark"
+        ],
+        "answer": "Blue Whale",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "choices": [
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Margaret Thatcher"
+        ],
+        "answer": "Marie Curie",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choices": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "choices": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": "Mercury",
+        "correctIndex": 2
+    }
+]

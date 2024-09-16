@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Which planet is known as the Gas Giant?",
+        "choices": ["Mars", "Jupiter", "Earth", "Venus"],
+        "answer": "Jupiter",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who is known as the 'Maid of Orléans'?",
+        "choices": ["Joan of Arc", "Marie Curie", "Catherine de' Medici", "Eleanor of Aquitaine"],
+        "answer": "Joan of Arc",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which natural disaster is measured with a Richter scale?",
+        "choices": ["Tornado", "Flood", "Earthquake", "Hurricane"],
+        "answer": "Earthquake",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which mammal lays eggs?",
+        "choices": ["Kangaroo", "Platypus", "Elephant", "Whale"],
+        "answer": "Platypus",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "choices": ["Canada", "Brazil", "United States", "Russia"],
+        "answer": "Canada",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary gas found in the air we breathe?",
+        "choices": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+        "answer": "Nitrogen",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the term for a word that has the same meaning as another word?",
+        "choices": ["Antonym", "Homonym", "Synonym", "Acronym"],
+        "answer": "Synonym",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "choices": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+        "answer": "Canberra",
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the symbol for Potassium in the periodic table?",
+        "choices": ["P", "Po", "Pt", "K"],
+        "answer": "K",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who wrote the play 'Hamlet'?",
+        "choices": ["Christopher Marlowe", "Ben Jonson", "John Milton", "William Shakespeare"],
+        "answer": "William Shakespeare",
+        "correctIndex": 3
+    },
+    {
+        "question": "Which bird is often associated with delivering babies in folklore?",
+        "choices": ["Eagle", "Stork", "Owl", "Sparrow"],
+        "answer": "Stork",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the process of converting liquid water into vapor called?",
+        "choices": ["Condensation", "Evaporation", "Precipitation", "Transpiration"],
+        "answer": "Evaporation",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which planet has the most gravity?",
+        "choices": ["Earth", "Mars", "Saturn", "Jupiter"],
+        "answer": "Jupiter",
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the main ingredient in a traditional Japanese Miso soup?",
+        "choices": ["Soy Sauce", "Fish", "Seaweed", "Miso Paste"],
+        "answer": "Miso Paste",
+        "correctIndex": 3
+    },
+    {
+        "question": "Which famous ship sank on its maiden voyage in 1912?",
+        "choices": ["Bismarck", "HMS Victory", "Titanic", "Lusitania"],
+        "answer": "Titanic",
+        "correctIndex": 2
+    }
+]

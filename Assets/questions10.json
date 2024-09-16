@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What type of galaxy is the Milky Way?",
+        "choices": ["Elliptical", "Irregular", "Spiral", "Barred Spiral"],
+        "answer": "Barred Spiral",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who was the 16th President of the United States?",
+        "choices": ["Thomas Jefferson", "Abraham Lincoln", "Andrew Jackson", "Theodore Roosevelt"],
+        "answer": "Abraham Lincoln",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which famous structure was built in Paris in 1889?",
+        "choices": ["Louvre Museum", "Eiffel Tower", "Notre-Dame Cathedral", "Arc de Triomphe"],
+        "answer": "Eiffel Tower",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which animal is the symbol of the World Wildlife Fund (WWF)?",
+        "choices": ["Elephant", "Lion", "Panda", "Tiger"],
+        "answer": "Panda",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which vitamin is also known as ascorbic acid?",
+        "choices": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+        "answer": "Vitamin C",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "choices": ["Phuket", "Chiang Mai", "Bangkok", "Pattaya"],
+        "answer": "Bangkok",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which animal is known as the king of the jungle?",
+        "choices": ["Elephant", "Tiger", "Gorilla", "Lion"],
+        "answer": "Lion",
+        "correctIndex": 3
+    },
+    {
+        "question": "Which type of fruit is a kiwi?",
+        "choices": ["Berry", "Citrus", "Stone Fruit", "Melon"],
+        "answer": "Berry",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": ["China", "Japan", "Thailand", "South Korea"],
+        "answer": "Japan",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "choices": ["Bessie Coleman", "Amelia Earhart", "Harriet Quimby", "Jacqueline Cochran"],
+        "answer": "Amelia Earhart",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which organ is affected by hepatitis?",
+        "choices": ["Heart", "Lungs", "Liver", "Kidneys"],
+        "answer": "Liver",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "choices": ["50°C", "90°C", "100°C", "150°C"],
+        "answer": "100°C",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which gas is used in neon signs?",
+        "choices": ["Argon", "Neon", "Helium", "Xenon"],
+        "answer": "Neon",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is the largest continent by land area?",
+        "choices": ["Africa", "Asia", "North America", "Europe"],
+        "answer": "Asia",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which chess piece can only move diagonally?",
+        "choices": ["Queen", "Knight", "Bishop", "Rook"],
+        "answer": "Bishop",
+        "correctIndex": 2
+    }
+]

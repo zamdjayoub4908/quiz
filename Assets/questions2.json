@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What is the longest river in the world?",
+        "choices": [
+            "Mississippi",
+            "Nile",
+            "Yangtze",
+            "Amazon"
+        ],
+        "answer": "Nile",
+        "correctIndex": 1
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "choices": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton",
+            "Nikola Tesla"
+        ],
+        "answer": "Albert Einstein",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choices": [
+            "Tokyo",
+            "Osaka",
+            "Kyoto",
+            "Nagoya"
+        ],
+        "answer": "Tokyo",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": [
+            "Saturn",
+            "Jupiter",
+            "Venus",
+            "Mars"
+        ],
+        "answer": "Mars",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "choices": [
+            "Harper Lee",
+            "Mark Twain",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald"
+        ],
+        "answer": "Harper Lee",
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "choices": [
+            "Atom",
+            "Electron",
+            "Proton",
+            "Molecule"
+        ],
+        "answer": "Atom",
+        "correctIndex": 0
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "choices": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Vincent van Gogh",
+            "Raphael"
+        ],
+        "answer": "Michelangelo",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choices": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+        ],
+        "answer": "Ottawa",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "choices": [
+            "Oxygen",
+            "Gold",
+            "Oganesson",
+            "Osmium"
+        ],
+        "answer": "Oxygen",
+        "correctIndex": 0
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "choices": [
+            "Louis Pasteur",
+            "Gregor Mendel",
+            "Alexander Fleming",
+            "Marie Curie"
+        ],
+        "answer": "Alexander Fleming",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "choices": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Lhotse"
+        ],
+        "answer": "Mount Everest",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "choices": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ],
+        "answer": "Pacific",
+        "correctIndex": 3
+    },
+    {
+        "question": "Who is known as the Father of Computers?",
+        "choices": [
+            "Alan Turing",
+            "Bill Gates",
+            "John von Neumann",
+            "Charles Babbage"
+        ],
+        "answer": "Charles Babbage",
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "choices": [
+            "Avocado",
+            "Cucumber",
+            "Pepper",
+            "Tomato"
+        ],
+        "answer": "Avocado",
+        "correctIndex": 0
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": [
+            "China",
+            "Thailand",
+            "Japan",
+            "South Korea"
+        ],
+        "answer": "Japan",
+        "correctIndex": 2
+    }
+]

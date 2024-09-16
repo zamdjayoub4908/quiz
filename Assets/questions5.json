@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the capital of Italy?",
+        "choices": ["Paris", "Rome", "Madrid", "Berlin"],
+        "answer": "Rome",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choices": ["Heart", "Liver", "Skin", "Brain"],
+        "answer": "Skin",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which planet is known as the Earth's twin?",
+        "choices": ["Mars", "Jupiter", "Venus", "Mercury"],
+        "answer": "Venus",
+        "correctIndex": 2
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "choices": ["Emily Brontë", "Jane Austen", "Mary Shelley", "Louisa May Alcott"],
+        "answer": "Jane Austen",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "choices": ["Spanish", "French", "Portuguese", "English"],
+        "answer": "Portuguese",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which element is represented by the symbol 'O'?",
+        "choices": ["Gold", "Oxygen", "Osmium", "Iron"],
+        "answer": "Oxygen",
+        "correctIndex": 1
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "choices": ["1987", "1989", "1991", "1993"],
+        "answer": "1989",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the hardest substance in the human body?",
+        "choices": ["Bone", "Enamel", "Cartilage", "Nail"],
+        "answer": "Enamel",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which artist painted the ceiling of the Sistine Chapel?",
+        "choices": ["Raphael", "Leonardo da Vinci", "Michelangelo", "Donatello"],
+        "answer": "Michelangelo",
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "choices": ["1", "2", "3", "5"],
+        "answer": "2",
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is the only mammal capable of true flight?",
+        "choices": ["Flying Squirrel", "Bat", "Penguin", "Ostrich"],
+        "answer": "Bat",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa",
+        "correctIndex": 2
+    },
+    {
+        "question": "Which gas is essential for us to breathe?",
+        "choices": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Helium"],
+        "answer": "Oxygen",
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the world's largest desert?",
+        "choices": ["Sahara", "Gobi", "Arabian", "Kalahari"],
+        "answer": "Sahara",
+        "correctIndex": 0
+    },
+    {
+        "question": "Who is the Greek god of the sea?",
+        "choices": ["Zeus", "Hades", "Poseidon", "Apollo"],
+        "answer": "Poseidon",
+        "correctIndex": 2
+    }
+]
