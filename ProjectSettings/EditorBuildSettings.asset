@@ -12,33 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: ee96ec5b44e634461b05807c24ecc8bd
   - enabled: 1
-    path: Assets/Scenes/Quiz1.unity
-    guid: 39f2545d42d084f55b8a29a1c0460791
-  - enabled: 1
-    path: Assets/Scenes/Quiz2.unity
-    guid: eb64eaa8438564019b3a7ee87783301b
-  - enabled: 1
-    path: Assets/Scenes/Quiz3.unity
-    guid: a09c6114f22d047b29505aa6a2c04ab1
-  - enabled: 1
-    path: Assets/Scenes/Quiz4.unity
-    guid: 85401686a090445c38d34c4bfc28ba90
-  - enabled: 1
-    path: Assets/Scenes/Quiz5.unity
-    guid: 522ecfd933f41408ea7940ca8ee78883
-  - enabled: 1
-    path: Assets/Scenes/Quiz6.unity
-    guid: b544a9e9316aa47ef8b4d06b8e0c6820
-  - enabled: 1
-    path: Assets/Scenes/Quiz7.unity
-    guid: 020d3307686db42c5a3fcd79903cad5c
-  - enabled: 1
-    path: Assets/Scenes/Quiz8.unity
-    guid: 0adab65e961584578b3033c7c93937df
-  - enabled: 1
-    path: Assets/Scenes/Quiz9.unity
-    guid: 291ae0a8585dd4697a2e5412bdad05e2
-  - enabled: 1
-    path: Assets/Scenes/Quiz10.unity
-    guid: 55c5c138c57674401a4a9aa188eb9870
+    path: Assets/Game.unity
+    guid: fc7e2f8a537a941c78b34b4d7f76aa71
   m_configObjects: {}

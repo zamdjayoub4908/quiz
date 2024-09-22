@@ -1,25 +1,21 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections.Generic;
-using System.IO;
-using UnityEngine.SceneManagement;
-using Newtonsoft.Json;
+using System.Collections.Generic; 
 
 public class QuizManager : MonoBehaviour
 {
-    public string questionsFileName = "questions.json"; // Name of the file containing questions
     public Text questionText;
     public List<Button> choiceButtons;
     public Text scoreText;
     public Text resultText;
     public Text timerText;
-    public Text feedbackText; // New Text element for immediate feedback
-    public Button backHomeButton; // Button to go back to the main scene
-
+    public Text feedbackText;
+    public Button backHomeButton;
+    public int indexQuestion;
     private List<QuizQuestion> questions = new List<QuizQuestion>();
     private int currentQuestionIndex;
     private int score;
-    private float timePerQuestion = 10f; // Time in seconds for each question
+    private float timePerQuestion = 10f;
     private float currentTime;
 
     void Start()
@@ -29,8 +25,6 @@ public class QuizManager : MonoBehaviour
         currentQuestionIndex = 0;
         currentTime = timePerQuestion;
         DisplayQuestion();
-
-        // Ensure the back home button is hidden initially
         backHomeButton.gameObject.SetActive(false);
     }
 
@@ -52,12 +46,12 @@ public class QuizManager : MonoBehaviour
 
     void LoadQuestionsFromFile()
     {
-        string path = Path.Combine(Application.dataPath, questionsFileName);
-        if (File.Exists(path))
+        TextAsset jsonTextAsset = Resources.Load<TextAsset>("questions"+ indexQuestion);
+        if (jsonTextAsset != null)
         {
-            string json = File.ReadAllText(path);
-            var questionsData = JsonConvert.DeserializeObject<List<QuizQuestionData>>(json);
-            foreach (var questionData in questionsData)
+            string json = jsonTextAsset.text;
+            QuizQuestionDataList questionsDataList = JsonUtility.FromJson<QuizQuestionDataList>(json);
+            foreach (var questionData in questionsDataList.questions)
             {
                 QuizQuestion question = new QuizQuestion
                 {
@@ -70,7 +64,7 @@ public class QuizManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Questions file not found");
+            Debug.LogError("Questions file not found in Resources");
         }
     }
 
@@ -78,7 +72,7 @@ public class QuizManager : MonoBehaviour
     {
         if (currentQuestionIndex < questions.Count)
         {
-            feedbackText.text = ""; // Clear previous feedback
+            feedbackText.text = "";
             QuizQuestion question = questions[currentQuestionIndex];
             questionText.text = question.question;
             currentTime = timePerQuestion;
@@ -127,10 +121,8 @@ public class QuizManager : MonoBehaviour
             button.gameObject.SetActive(false);
         }
 
-        // Display the final score
         scoreText.text = "Your score: " + score + "/" + questions.Count;
 
-        // Determine pass or fail
         if (score >= questions.Count / 2)
         {
             resultText.text = "You passed!";
@@ -140,15 +132,10 @@ public class QuizManager : MonoBehaviour
             resultText.text = "You failed.";
         }
 
+        PlayerPrefs.SetInt("number", PlayerPrefs.GetInt("number", 0) + 1);
         timerText.gameObject.SetActive(false);
-        feedbackText.gameObject.SetActive(false); // Hide feedback text at the end
-
-        // Show the back home button
+        feedbackText.gameObject.SetActive(false);
         backHomeButton.gameObject.SetActive(true);
     }
-
-    public void OnBackHomeButtonClicked()
-    {
-        SceneManager.LoadScene(1); 
-    }
+     
 }

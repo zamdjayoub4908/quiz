@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "choices": [ "Madrid", "Paris", "Berlin", "London" ],
+            "answer": "Paris",
+            "correctIndex": 1
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "choices": [ "Mark Twain", "Charles Dickens", "Jane Austen", "William Shakespeare" ],
+            "answer": "William Shakespeare",
+            "correctIndex": 3
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "choices": [ "Mars", "Saturn", "Jupiter", "Earth" ],
+            "answer": "Jupiter",
+            "correctIndex": 2
+        },
+        {
+            "question": "Who was the first President of the United States?",
+            "choices": [ "Thomas Jefferson", "John Adams", "Abraham Lincoln", "George Washington" ],
+            "answer": "George Washington",
+            "correctIndex": 3
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "choices": [ "1905", "1912", "1923", "1918" ],
+            "answer": "1912",
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the smallest country in the world by land area?",
+            "choices": [ "Liechtenstein", "Monaco", "Vatican City", "San Marino" ],
+            "answer": "Vatican City",
+            "correctIndex": 2
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "choices": [ "Pablo Picasso", "Leonardo da Vinci", "Claude Monet", "Michelangelo" ],
+            "answer": "Leonardo da Vinci",
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "choices": [ "CO₂", "H₂O", "O₂", "H₂" ],
+            "answer": "H₂O",
+            "correctIndex": 1
+        },
+        {
+            "question": "Which continent is known as the 'Dark Continent'?",
+            "choices": [ "Africa", "Asia", "South America", "Australia" ],
+            "answer": "Africa",
+            "correctIndex": 0
+        },
+        {
+            "question": "Who is the author of the 'Harry Potter' series?",
+            "choices": [ "J.R.R. Tolkien", "George R.R. Martin", "Stephen King", "J.K. Rowling" ],
+            "answer": "J.K. Rowling",
+            "correctIndex": 3
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "choices": [ "Mississippi", "Yangtze", "Nile", "Amazon" ],
+            "answer": "Nile",
+            "correctIndex": 2
+        },
+        {
+            "question": "Which country is famous for the Eiffel Tower?",
+            "choices": [ "Spain", "Italy", "France", "Germany" ],
+            "answer": "France",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "choices": [ "Ruby", "Diamond", "Iron", "Gold" ],
+            "answer": "Diamond",
+            "correctIndex": 1
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "choices": [ "Isaac Newton", "Albert Einstein", "Marie Curie", "Alexander Fleming" ],
+            "answer": "Alexander Fleming",
+            "correctIndex": 3
+        },
+        {
+            "question": "In which city is the Statue of Liberty located?",
+            "choices": [ "Washington D.C.", "Philadelphia", "New York City", "Boston" ],
+            "answer": "New York City",
+            "correctIndex": 2
+        }
+    ]
+}

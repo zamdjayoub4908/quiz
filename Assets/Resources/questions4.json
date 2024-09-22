@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "question": "Which city is known as the Big Apple?",
+            "choices": [ "Los Angeles", "San Francisco", "New York City", "Chicago" ],
+            "answer": "New York City",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "choices": [ "Tomato", "Avocado", "Onion", "Cucumber" ],
+            "answer": "Avocado",
+            "correctIndex": 1
+        },
+        {
+            "question": "Who is known as the Father of Computers?",
+            "choices": [ "Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs" ],
+            "answer": "Charles Babbage",
+            "correctIndex": 1
+        },
+        {
+            "question": "Which is the smallest bone in the human body?",
+            "choices": [ "Femur", "Humerus", "Stapes", "Ulna" ],
+            "answer": "Stapes",
+            "correctIndex": 2
+        },
+        {
+            "question": "Which country is known for the maple leaf symbol?",
+            "choices": [ "Australia", "United States", "Canada", "New Zealand" ],
+            "answer": "Canada",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the chemical formula for table salt?",
+            "choices": [ "NaCl", "KCl", "CaCO3", "H2SO4" ],
+            "answer": "NaCl",
+            "correctIndex": 0
+        },
+        {
+            "question": "Which animal is the largest land carnivore?",
+            "choices": [ "Lion", "Polar Bear", "Tiger", "Grizzly Bear" ],
+            "answer": "Polar Bear",
+            "correctIndex": 1
+        },
+        {
+            "question": "In which year did World War II end?",
+            "choices": [ "1939", "1945", "1950", "1942" ],
+            "answer": "1945",
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the national sport of Japan?",
+            "choices": [ "Karate", "Baseball", "Sumo Wrestling", "Soccer" ],
+            "answer": "Sumo Wrestling",
+            "correctIndex": 2
+        },
+        {
+            "question": "Which vitamin is produced when a person is exposed to sunlight?",
+            "choices": [ "Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12" ],
+            "answer": "Vitamin D",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the square root of 64?",
+            "choices": [ "6", "7", "8", "9" ],
+            "answer": "8",
+            "correctIndex": 2
+        },
+        {
+            "question": "Which planet has the most moons?",
+            "choices": [ "Mars", "Earth", "Saturn", "Jupiter" ],
+            "answer": "Saturn",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the hardest rock?",
+            "choices": [ "Granite", "Marble", "Diamond", "Limestone" ],
+            "answer": "Diamond",
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the main component of the sun?",
+            "choices": [ "Oxygen", "Helium", "Carbon", "Hydrogen" ],
+            "answer": "Hydrogen",
+            "correctIndex": 3
+        },
+        {
+            "question": "What is the currency of Mexico?",
+            "choices": [ "Peso", "Dollar", "Euro", "Real" ],
+            "answer": "Peso",
+            "correctIndex": 0
+        }
+    ]
+}
